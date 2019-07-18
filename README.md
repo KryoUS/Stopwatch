@@ -1,2 +1,0 @@
-# Stopwatch
-Created with CodeSandbox

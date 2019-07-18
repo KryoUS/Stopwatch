@@ -1,0 +1,29 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #141517;
+  text-align: center;
+  font-family: "Quicksand", sans-serif;
+}
+
+.button {
+  margin: 5px;
+  padding: 5px;
+  width: 75px;
+  background-color: #202125;
+  border-radius: 4px;
+  color: white;
+  transition: all 0.5s;
+}
+
+.button:hover {
+  cursor: pointer;
+  background-color: white;
+  color: black;
+}
+
+#buttonWarn:hover {
+  cursor: pointer;
+  background-color: red;
+  color: white;
+}
